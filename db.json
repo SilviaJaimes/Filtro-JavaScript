@@ -1,0 +1,54 @@
+{
+  "Departamentos": [
+    {
+      "id": 1,
+      "nomDepartamento": "Santander"
+    },
+    {
+      "id": 2,
+      "nomDepartamento": "Cundinamarca"
+    }
+  ],
+  "Ciudades": [
+    {
+      "id": 1,
+      "nomCiudad": "Bucaramanga",
+      "departamentoId": 2,
+      "imagen": "https://santandercompetitivo.org/imagenes/vco_noticias/noti_6f169efdbad3e83f60fece917ca78e9dfe0ed2a2.jpg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 2,
+      "nomCiudad": "Barrancabermeja",
+      "departamentoId": 2,
+      "imagen": "https://www.eltiempo.com/files/image_640_428/uploads/2017/02/23/58af9abf6eca4.jpeg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 3,
+      "nomCiudad": "Bogotá",
+      "departamentoId": 2,
+      "imagen": "https://www.ciencuadras.com/blog/wp-content/uploads/2022/06/Destacado_Que-tanto-sabes-de-tu-barrio.jpg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 4,
+      "nomCiudad": "Cajicá",
+      "departamentoId": 2,
+      "imagen": "https://fincaraiz.com.co/blog/wp-content/uploads/2022/08/shutterstock_1424506721-1920x1280.jpg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    }
+  ]
+}
